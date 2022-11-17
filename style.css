@@ -11,3 +11,9 @@
     position: relative;
     text-align: center;
 }
+.button{
+    border-style: none;
+    background-color: wheat;
+    color: black;
+    font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
+}
