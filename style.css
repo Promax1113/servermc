@@ -8,9 +8,7 @@
     text-align: center;
 }
 .buttonContainer{
-    display: flex;
-    align-items: center;
-    text-align: center;
-    align-content: center;
-    margin: auto;
+    width: auto;
+    height: auto;
+    display: grid;
 }
