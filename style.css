@@ -7,3 +7,10 @@
     font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
     text-align: center;
 }
+.buttonContainer{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+}
