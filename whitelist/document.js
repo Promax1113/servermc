@@ -5,8 +5,7 @@ function WriteToFile(passForm) {
  
     var username = document.getElementById('uName'); 
  
-    s.writeline("First Name :" + FirstName); 
-    s.writeline("Last Name :" + lastName); 
+    s.writeline("user: ", username); 
  
     s.writeline("-----------------------------"); 
     s.Close(); 
